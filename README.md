@@ -16,7 +16,7 @@
 * **Giảng viên:** **PGS. TS. Lê Đình Duy** - *duyld@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
-### Tên nhóm: PHP
+### Tên nhóm: Kronus
 | STT | Họ tên | MSSV |
 | :---: | --- | --- |
 | 1 | Trần Siêu | 21520097 |
